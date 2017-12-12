@@ -8,3 +8,6 @@ Sort members alphabetically
  
 Put spacing in members
   - Source -> Format
+  
+Generate an interface from a Class
+ - Refactor -> Extract Interface...
