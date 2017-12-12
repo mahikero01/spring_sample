@@ -5,6 +5,10 @@ public class Customer {
 	private String firstname;
 	private String lasstname;
 
+	public Customer() {
+		
+	}
+	
 	public String getFirstname() {
 		return firstname;
 	}
