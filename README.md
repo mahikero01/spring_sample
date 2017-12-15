@@ -11,3 +11,15 @@ Put spacing in members
   
 Generate an interface from a Class
  - Refactor -> Extract Interface...
+ 
+@Component, @Service, @Repository  
+ - Semantically the same
+ 
+@Component
+ - any POJO
+  
+@Service
+ - business logic layer
+ 
+@Repository
+ - data layer
